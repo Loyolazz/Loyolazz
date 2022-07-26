@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Loyolazz or Arthur Loyola, or just Loyola.
 - 👀 I'm interested in programming and learning more about software development.
-- 🌱 I'm currently learning python and javascript
+- 🌱 I'm currently learning React Native and javascript
 - 💞️ I'm looking to collaborate on opensource
 - 📫 How to reach me aloyola14.al@gmail.com
 
