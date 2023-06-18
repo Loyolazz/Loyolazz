@@ -6,7 +6,7 @@
 
 - 🎮 eXophase:
 
-<a href="https://www.exophase.com/user/loyolaz/"><img src="https://card.exophase.com/2/0/219463.png?1687121008"></a>
+  <a href="https://www.exophase.com/user/loyolaz/"><img src="https://card.exophase.com/2/0/219463.png?1687121008"></a>
 
 
 <!---
