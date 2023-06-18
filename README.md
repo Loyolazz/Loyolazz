@@ -4,7 +4,12 @@
 - 💞️ I'm looking to collaborate on opensource
 - 📫 How to reach me loyolazempresarial@gmail.com
 
+<a href="https://www.exophase.com/user/loyolaz/"><img src="https://card.exophase.com/2/0/219463.png?1687121008"></a>
+
+
 <!---
 Loyolazz/Loyolazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
